@@ -1,0 +1,6 @@
+S->"ABC"|"BAC"
+A->"C"|"der_E"
+B->"bringt_"
+C->"das_D"|"den_E"
+D->"geschenk_"|"christkind_"
+E->"weihnachtsmann_"
